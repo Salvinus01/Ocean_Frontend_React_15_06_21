@@ -28,7 +28,7 @@ function ListarItens() {
                 nome="Bilbo"
                 imagem="https://cdn.vox-cdn.com/thumbor/OnqCOd14_2wyCsgOo5FQe4hJNns=/0x0:3733x1579/1200x675/filters:focal(1499x515:2095x1111)/cdn.vox-cdn.com/uploads/chorus_image/image/68661007/Lord_of_the_Rings_The_Fellowship_of_the_Ring.mkv_snapshot_00.19.38__2020.11.29_18.16.35_.0.png"
             />
-        </div>
+        </div> 
     );
 }
 
